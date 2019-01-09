@@ -59,6 +59,13 @@ header {
   width: 300px;
   float: left;
 }
+
+.right-contents2{
+  width: 300px;
+  float: left;
+}
+
+
 #wrap {
   width: 800px;
   overflow: hidden;
